@@ -17,7 +17,8 @@ console.log('Doy la vuelta al array');
 aldeanos.reverse();
 console.log(aldeanos);
 //4.5 - Cambia a "Narciso" por "Canela" haciendo uso de un método de array.
-
+console.log('Cambio a Narciso por Canela');
+aldeanos[aldeanos.indexOf("Narciso")]="Canela";
+console.log(aldeanos);
 //4.6 - Imprime por consola el último elemento de este array sin atacar a la posición explicitamente
 console.log('ultima posicion del array '+aldeanos[aldeanos.length-1]);
-// Pista: puedes usar el método length con algo más para ello.
