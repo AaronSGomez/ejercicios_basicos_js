@@ -1,29 +1,19 @@
 Ejercicios básicos de Js lo ideal para empezar a entender este lenguaje.
 
-Ejercicio 1
-    1. Define tu superhéroe favorito:
-    Crea una variable llamada miSuperheroeFavorito y asigna el valor "Hulk".
-    2. Define un número:
-    Crea una variable llamada numeroFavorito y asigna el valor 50.
-    3. Define las dimensiones:
-    Crea una variable llamada altura y asigna el valor 5.
-    Crea una variable llamada longitud y asigna el valor 10.
-    4. Calcula la suma:
-    Crea una variable llamada suma y asigna el valor de altura + longitud.
-    5. Imprime los resultados:
-    Muestra todas las variables por consola.
+Ejercicios básicos de JavaScript
 
-Ejercicio 2
-    1. Luke Skywalker cumple años:
-    Modifica el siguiente código JavaScript para actualizar la edad de Luke Skywalker a 25 años.
-    2. Presentación al estilo Leia Organa:
-      - Crea tres variables con la siguiente información:
-      nombre: "Leia"
-      apellido: "Organa"
-      edad: 20
-      - Muestra un mensaje por consola que siga la siguiente estructura:
-      "Soy Leia Organa, tengo 20 años y soy una princesa de Alderaan."
-      - Utiliza la concatenación para ello.
-    3. Calculando el coste total de sables de luz:
-      - Obtén el precio total de dos sables de luz: "Shoto de Yoda" y "sable de Darth Vader".
-      - Imprime el resultado por consola utilizando console.log.
+Los ejercicios básicos de JavaScript están diseñados para ayudar a principiantes a comprender los fundamentos de este lenguaje de programación, uno de los más utilizados en desarrollo web. Estos ejercicios abarcan temas esenciales como:
+
+    Manipulación de variables y tipos de datos: Aprende a declarar variables, asignarles valores y trabajar con diferentes tipos de datos como números, cadenas, booleanos y objetos.
+
+    Estructuras de control: Practica el uso de condiciones if/else, operadores lógicos y bucles como for y while para controlar el flujo del programa.
+
+    Funciones: Descubre cómo declarar y llamar funciones para reutilizar código de manera eficiente.
+
+    Manipulación del DOM: Trabaja con el Document Object Model (DOM) para crear interacciones básicas en páginas web.
+
+    Eventos: Aprende a responder a acciones del usuario, como clics o envío de formularios, mediante manejadores de eventos.
+
+    Resolución de problemas: Refuerza tus habilidades aplicando lógica para resolver desafíos y mejorar tu comprensión de algoritmos.
+
+Estos ejercicios son ideales para sentar una base sólida en JavaScript y fomentar la práctica continua, clave para el aprendizaje efectivo de programación.
